@@ -1,0 +1,73 @@
+body{
+    background-image: url("../img/skyclouds.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Zilla Slab', serif;
+    background-size: cover;
+}
+
+h2 {
+    background: rgba(243, 159, 173, 0.7);
+    padding:20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-color: whitesmoke;
+    font-family: 'Zilla Slab', serif;
+    font-weight: 600;
+    color: whitesmoke;
+    border-style: solid;
+    border-radius: 5px;
+
+}
+
+
+button{
+    background-color: purple;
+    
+}
+
+
+.jumbotron{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-style: solid;
+    border-color: white;
+ 
+
+
+}
+
+.card{
+
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(227, 165, 252);
+    border-width: 1px;
+    border-color: whitesmoke;
+}
+
+
+
+#mainArea{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+#form{
+    padding: 20px;
+    border-width: 10px;
+    border: 1px solid blueviolet;
+    border-color: whitesmoke;
+    background-color: rgb(162, 183, 223);
+    border-radius: 5px;
+
+}
+
+#cards{
+    margin-top: 30px;
+}
